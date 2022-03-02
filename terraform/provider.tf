@@ -8,7 +8,7 @@ terraform {
    cloud {
     organization = "arterycloud"
     workspaces {
-      name = "nodejs-api"
+      name = "react-app"
     }
   }
 }
